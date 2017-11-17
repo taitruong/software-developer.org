@@ -10,6 +10,10 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://taitruong.github.io/software-developer.org
 
+# Plugins
+plugins:
+  - jemoji
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
