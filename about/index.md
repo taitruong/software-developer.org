@@ -7,6 +7,7 @@ comments: false
 ---
     
 <center><a href="http://taitruong.github.io/software-developer.org"><b>software-developer.org</b></a></center>
+<span><center><a href="https://www.instagram.com/chrismillaphotography/"><b>shooting: Chris Milla</b></a></center></span>
 
 # Hi, I'm Tai / Tai, freut mich!
 
