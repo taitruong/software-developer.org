@@ -4,7 +4,7 @@ bio:                "tons of notes, unspoken thoughts, undone ideas, dreams... t
 description:        "through time I have gathered lots of notes and thought, now I try to sort 'em out ;)"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/Mr-T.jpg'
+logo:               'assets/img/shirt_pocket.jpg'
 background:         'assets/img/background-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
