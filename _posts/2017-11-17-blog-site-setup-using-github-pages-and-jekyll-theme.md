@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting Up a Blog Site using with GitHub Pages and Jekyll Theme
+title: Setting Up a Blog Site using GitHub Pages and a Jekyll Theme
 date: 2017-11-17 01:18
 excerpt: "A step-by-step guide for installing a blog site using git, GitHub, and Markdown."
 tags: [GitHub Pages, Jekyll Themes, git, GitHub, git clone, docs like code, docs as a code, content as code]
