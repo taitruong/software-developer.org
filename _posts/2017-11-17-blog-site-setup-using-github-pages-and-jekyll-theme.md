@@ -8,9 +8,9 @@ comments: true
 ---
 # Motivation
 
-I'm... :ramen: 
-:panda_face:
-> a developer, foodie :ramen:, and generally passionate human :panda_face: by :heart:.
+:ramen: :panda_face: :heart:
+I'm...
+> a developer, foodie, and generally a passionate human by heart.
 > intrigued by concept docs-as-code/docs like code, content-as-a-service
 
 It was about time...
