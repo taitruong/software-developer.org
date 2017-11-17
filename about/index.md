@@ -1,37 +1,44 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about, software-developerorg, web, scala, java, agile, scrum]
+date: 2017-11-17 01:23
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://taitruong.github.io/software-developer.org"><b>software-developer.org</b></a></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+# Hi, I'm Tai / Tai, freut mich!
 
-## Preview
+For you not leaving with empty pockets here's a mini-bio of [mini-me](https://de.wikipedia.org/wiki/Holz-Tiger).
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+In terms of tools evolution where everybody's used to graphical interfaces I prefer going 3 steps back: extensively using the console and other simple tools, that's why I decided some years ago moving to Linux and never going back again to M$ Windows:
+- personal skills:
+  - fluent in German and English
+  - passionate(!) in work and life
+  - curious(!) like a kid
+  - enabling people, projects
+- experiences
+  - ceo, cto, and founder of and for some companys
+  - ScrumMaster, PM, PL
+  - trainer, coach, presenter
+- IT skills
+  - Java, Scala (I just luv FP!), Web
+  - git (especially on the console)
+  - bash
+  - Ubuntu
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+... there's more, but sorry headhunters you'll find other sources ;)
 
-## Getting Started
+# Digital
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+You might find me under different names like: Mr. T and [Taj-My-Tai](https://www.instagram.com/taj.my.tai/)...
+- and if you dig deeper back to the late [90s](https://www.heise.de/newsticker/meldung/Sex-im-Web-nur-noch-auf-Platz-3-15234.html), 80s, where...
+  - kids did conventional activities like soccer or whatever,
+  - computers weren't mainstream and part of our daily life
+- ... you'll find me in the [C64/Brotkasten](http://www.mobygames.com/game/c64/black-panther/credits) scene as well.
+
+# Personal
+Since beginning of 2017 I'm back in my lovely hometown, [Freiburg im Breisgau, South Germany, Black Forrest](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau). Cooking and eating are more than a passion for me. I rather spent cutting something then wasting my time in front of 'dada-gaga-television'. My unit of measure of a good weekend is simple: dancing on beautiful, electronic music >= one night per weekend
+
+... and I plan doing more sports activities like running, bouldering, and basketball would be also gr8.
