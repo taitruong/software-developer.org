@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting Up a Blog Site using GitHub Pages and a Jekyll Theme
+title: Setting up a Blog Site using GitHub Pages and a Jekyll Theme
 date: 2017-11-17 01:18
 excerpt: "A step-by-step guide for installing a blog site using git, GitHub, and Markdown."
 tags: [GitHub Pages, Jekyll Themes, git, GitHub, git clone, docs like code, docs as a code, content as code]
@@ -10,16 +10,16 @@ comments: true
 
 :ramen: :panda_face: :heart: :point_left:
 I'm...
-> a developer, foodie, and generally a passionate human by heart.
-> intrigued by concept docs-as-code/docs like code, content-as-a-service
+* a developer, foodie, and generally a passionate human by heart.
+* Intrigued by concept docs-as-code/docs like code, content-as-a-service
 
 It was about time...
-> getting ownership and control back from social medias like Facebook and Instagram.
-> Now it's my content and ownership and social media is just a platform for sharing mine
+* getting ownership and control back from social medias like Facebook and Instagram.
+* Now it's my content and ownership and social media is just a platform for sharing mine
 
 Last but not least...
-> following my passions, sharing my notes for the ones it may help, and
-> finding, getting connected, and share interests and thoughts with you!
+* following my passions, sharing my notes for the ones it may help, and
+* finding, getting connected, and share interests and thoughts with you :point_left:!
 
 # Preparations
 
