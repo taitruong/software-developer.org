@@ -8,7 +8,7 @@ comments: true
 ---
 # Motivation
 
-:ramen: :panda_face: :heart:
+:ramen: :panda_face: :heart: :point_left:
 I'm...
 > a developer, foodie, and generally a passionate human by heart.
 > intrigued by concept docs-as-code/docs like code, content-as-a-service
@@ -19,7 +19,7 @@ It was about time...
 
 Last but not least...
 > following my passions, sharing my notes for the ones it may help, and
-> finding, getting connected, and share interests and thoughts with you :point_left:!
+> finding, getting connected, and share interests and thoughts with you!
 
 # Preparations
 
