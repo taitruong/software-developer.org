@@ -5,12 +5,15 @@ tags: [about, software-developerorg, web, scala, java, agile, scrum]
 date: 2017-11-17 01:23
 comments: false
 ---
+
+Hi, I'm Tai / Tai, freut mich!
     
 <center><a href="http://taitruong.github.io/software-developer.org"><b>software-developer.org</b></a></center>
 <span><center><a href="https://www.instagram.com/chrismillaphotography/"><b>shooting: Chris Milla</b></a></center></span>
 
-# Hi, I'm Tai / Tai, freut mich!
+> tons of notes, unspoken thoughts, undone ideas, dreams... through time - tons of wasted, unshared knowledge, opportunities ... comes to an end!
 
+# short bio
 For you not leaving with empty pockets here's a mini-bio of [mini-me](https://de.wikipedia.org/wiki/Holz-Tiger).
 
 In terms of tools evolution where everybody's used to graphical interfaces I prefer going 3 steps back: extensively using the console and other simple tools, that's why I decided some years ago moving to Linux and never going back again to M$ Windows:
