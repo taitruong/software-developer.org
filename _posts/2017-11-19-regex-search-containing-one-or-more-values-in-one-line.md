@@ -3,7 +3,7 @@ layout: post
 title: Regex search containing one or more values in one line
 date: 2017-11-19 20:42
 excerpt: "RegEx: a developer's swiss knife for searching contents in text files"
-tags: [regex, ]
+tags: [regex, search, group]
 comments: true
 ---
 # RegEx search containing one or more values in one line
