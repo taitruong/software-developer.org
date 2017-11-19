@@ -26,3 +26,17 @@ sudo apt install oracle-java9-unlimited-jce-policy
 sudo apt install oracle-java7-unlimited-jce-policy
 ```
 
+And don't forget setting your JAVA_HOME:
+
+```
+# source: http://www.wikihow.com/Set-Up-Your-Java_Home-Path-in-Ubuntu
+vi ~/.bashrc
+# add at the end in ~/.bashrc:
+JAVA_HOME=/usr/lib/jvm/java-8-oracle
+export JAVA_HOME
+PATH=$PATH:$JAVA_HOME
+export PATH
+```
+
+That might be also interesting for setting your env vars permanently: https://help.ubuntu.com/community/EnvironmentVariables#Persistent_environment_variables
+
