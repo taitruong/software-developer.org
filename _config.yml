@@ -62,10 +62,6 @@ instagram:          taj.my.tai
 #xmpp:              username@server.com
 #hackernews:        username
 
-# Plugins
-plugins:
-  - jekyll-feed
-
 # Gems
 gems:
   - jekyll-mentions
@@ -73,6 +69,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
+  - jekyll-feed
 
 jekyll-mentions:
     base_url: https://github.com
