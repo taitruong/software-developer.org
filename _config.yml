@@ -62,6 +62,10 @@ instagram:          taj.my.tai
 #xmpp:              username@server.com
 #hackernews:        username
 
+# Plugins
+plugins:
+  - jekyll-feed
+
 # Gems
 gems:
   - jekyll-mentions
