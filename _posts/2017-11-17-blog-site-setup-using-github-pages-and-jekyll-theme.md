@@ -3,7 +3,7 @@ layout: post
 title: Setting up a Blog Site using GitHub Pages and a Jekyll Theme
 date: 2017-11-17 01:18
 excerpt: "A step-by-step guide for installing a blog site using git, GitHub, and Markdown."
-tags: [GitHub Pages, Jekyll Themes, git, GitHub, git clone, docs like code, docs as a code, content as code]
+tags: [GitHubPages, Jekyll, Themes, GitHub, git, DocsLikeCode, DocsAsCode, ContentAsCode, Emoji, plugin, installation]
 comments: true
 ---
 # Motivation
@@ -81,3 +81,20 @@ All you need is to enable it:
 That's it!
 
 Enjoy, Tai
+
+[UPDATE 2017-11-20]
+I have also installed an emoji plugin. All you need to do is editing your _config.yml file in your main/root folder.
+Add 'jemoji' in the gems entry:
+```
+...
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+...
+```
+Here is an [emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/). Go for it :clap!
+The only problem I have with this emoji plugin: Either the are way to big or it is because of this blog layout. I need to figure that out.
