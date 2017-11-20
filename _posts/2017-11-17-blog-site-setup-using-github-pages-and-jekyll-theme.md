@@ -3,7 +3,7 @@ layout: post
 title: Setting up a Blog Site using GitHub Pages and a Jekyll Theme
 date: 2017-11-17 01:18
 excerpt: "A step-by-step guide for installing a blog site using git, GitHub, and Markdown."
-tags: [GitHubPages, Jekyll, Themes, GitHub, git, DocsLikeCode, DocsAsCode, ContentAsCode, Emoji, plugin, installation]
+tags: [GitHubPages, Jekyll, Themes, GitHub, git, DocsLikeCode, DocsAsCode, ContentAsCode, Emoji, plugin, installation, FrontMatter,]
 comments: true
 ---
 # Motivation
@@ -83,11 +83,25 @@ That's it!
 Enjoy, Tai
 
 [UPDATE 2017-11-20]
+# Plugins/Gems
 I have also installed an emoji plugin. All you need to do is editing your _config.yml file in your main/root folder.
-Add 'jemoji' in the gems entry:
+Add 'jemoji' in the plugins (or gems for Jekyll version < 3.5.0) entry:
 ```
 ...
+# Plugins
+plugins:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+...
+```
+
+In case you find your _config.yml an gems entry than your theme is using an older Jekyll version < 3.5.0:
+```
 # Gems
+...
 gems:
   - jekyll-mentions
   - jekyll-feed
@@ -98,3 +112,19 @@ gems:
 ```
 Here is an [emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/). Go for it :clap!
 The only problem I have with this emoji plugin: Either the are way to big or it is because of this blog layout. I need to figure that out.
+
+I have also started adding an atom/RSS feeds plugin. Like above add the 'jekyll-feed' into your _config.yml file under plugins resp. gems.
+
+# Fileformat: Markdown defined Front Matter
+Just learning new things. Before I was only used to Markdown. Now with Jekyll I realized that the first lines in my markdown files must contain a front matter block beginning and ending with three dashes '---':
+```
+---
+layout: post
+title: Setting up a Blog Site using GitHub Pages and a Jekyll Theme
+date: 2017-11-17 01:18
+excerpt: "A step-by-step guide for installing a blog site using git, GitHub, and Markdown."
+tags: [GitHubPages, Jekyll, Themes, GitHub, git, DocsLikeCode, DocsAsCode, ContentAsCode, Emoji, plugin, installation, FrontMatter,]
+comments: true
+---
+```
+More info here on [Jekyll's Front Matter](https://jekyllrb.com/docs/frontmatter/) page.
