@@ -69,9 +69,9 @@ If you are not familiar with Markdown, have a look here:
 
 # Enable your GitHub pages
 All you need is to enable it:
-<figure class="half">
-	<img src="/_posts/2017-11-17-github-settings-enable-pages.png" alt="GitHub Repo Settings">
-	<figcaption>GitHub Repo Settings</figcaption>
+<figure>
+ <img src="{{ site.baseurl }}/assets/img/2017-11-17-github-settings-enable-pages.png" alt="GitHub Repo Settings">
+ <figcaption>GitHub Repo Settings</figcaption>
 </figure>
 
 - Go to your Git Hub repo settings, scroll down to GitHub pages
