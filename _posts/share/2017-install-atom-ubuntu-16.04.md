@@ -17,5 +17,7 @@ sudo apt update; sudo apt install atom
 sudo apt remove --purge atom
 ```
 
+# Plugins
 
-
+Go to settings with Ctrl+,
+- tablr: table editor e.g. for csv files
