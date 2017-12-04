@@ -8,7 +8,8 @@ logo:               'assets/img/MrT.jpg'
 background:         'assets/img/background-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taitruong.github.io/software-developer.org
+baseurl:            "/software-developer.org"
+url:                "https://taitruong.github.io"
 
 # Jekyll
 permalink:          /:title/
@@ -38,7 +39,7 @@ disqus_shortname:   mr-t-software-developer
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            tajmytai
+twitter:            MrTsCode
 facebook:           tai.truong.547
 github-url:         taitruong
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -76,4 +77,3 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-
