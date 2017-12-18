@@ -2,7 +2,7 @@
 layout: post
 title: Fix broken packages, Ubuntu 16.04, possible cause by git and atom
 date: 2017-12-18
-excerpt: "xx"
+excerpt: "If everything fails use with caution: sudo dpkg --remove --force-remove-reinstreq package_name"
 tags: [broken package, ubuntu, 16.04, dpkg, git, atom]
 comments: true
 ---
