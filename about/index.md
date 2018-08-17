@@ -8,7 +8,7 @@ comments: false
 
 Hi, I'm Tai / Tai, freut mich!
     
-<center><a href="http://taitruong.github.io/software-developer.org"><b>software-developer.org</b></a></center>
+<center><a href="{{site.baseurl}}/"><b>software-developer.org</b></a></center>
 <span><center><a href="https://www.instagram.com/chrismillaphotography/"><b>shooting: Chris Milla</b></a></center></span>
 
 > tons of notes, unspoken thoughts, undone ideas, dreams... through time - tons of wasted, unshared knowledge, opportunities ... comes to an end!
