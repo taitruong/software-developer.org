@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install Atom Editor and Keep Update with Software Updater
-date: 2017-
+date: 2017-11-29
 excerpt: ""
 tags: [install, ubuntu, atom, editor]
 comments: true
