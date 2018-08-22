@@ -26,8 +26,8 @@ dpkg: dependency problems prevent configuration of git:
   Package libcurl3-gnutls:amd64 is not configured yet.
 
 No apport report written because the error message indicates its a followup error from a previous failure.
-                                                                                                         No apport report written because the error message indicates its a followup error from a previous failure.
-                                                                                                         dpkg: error processing package git (--configure):
+No apport report written because the error message indicates its a followup error from a previous failure.
+dpkg: error processing package git (--configure):
  dependency problems - leaving unconfigured
 dpkg: dependency problems prevent configuration of curl:
  curl depends on libcurl3-gnutls (= 7.47.0-1ubuntu2.5); however:
@@ -97,8 +97,8 @@ dpkg: dependency problems prevent configuration of git:
 dpkg: error processing package git (--configure):
  dependency problems - leaving unconfigured
 No apport report written because the error message indicates its a followup error from a previous failure.
-                                                                                                         No apport report written because the error message indicates its a followup error from a previous failure.
-                                                                                                         dpkg: dependency problems prevent configuration of curl:
+No apport report written because the error message indicates its a followup error from a previous failure.
+dpkg: dependency problems prevent configuration of curl:
  curl depends on libcurl3-gnutls (= 7.47.0-1ubuntu2.5); however:
   Package libcurl3-gnutls:amd64 is not configured yet.
 
@@ -130,8 +130,8 @@ dpkg: error processing package libcurl3-gnutls:amd64 (--configure):
  package is in a very bad inconsistent state; you should
  reinstall it before attempting configuration
 No apport report written because the error message indicates its a followup error from a previous failure.
-                                                                                                         No apport report written because the error message indicates its a followup error from a previous failure.
-                                                                                                         dpkg: dependency problems prevent configuration of git:
+No apport report written because the error message indicates its a followup error from a previous failure.
+dpkg: dependency problems prevent configuration of git:
  git depends on libcurl3-gnutls (>= 7.16.2); however:
   Package libcurl3-gnutls:amd64 is not configured yet.
 
