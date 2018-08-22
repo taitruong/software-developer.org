@@ -8,11 +8,11 @@ logo:               'assets/img/MrT.jpg'
 background:         'assets/img/background-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-#baseurl:            "/software-developer.org"
-url:                "https://taitruong.github.io/software-developer.org"
+baseurl:            "/software-developer.org"
+url:                "https://taitruong.github.io"
 
 # Jekyll
-permalink:          /:title/
+permalink:          pretty
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
