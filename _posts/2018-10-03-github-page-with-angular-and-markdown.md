@@ -29,11 +29,10 @@ Install nodejs
 ```
 # Optional: add this ppa for installing latest nodejs release
 curl -sL https://deb.nodesource.com/setup_10.x
-# installs latest (10.11.0) or LTS (8.10.0) release
+# installs latest (10.15.1) or LTS (8.10.0) release
 sudo apt install nodejs
 # check version
-nodejs --version # v10.11.0
-node --version # v10.11.0
+node -v # v10.15.1
 ```
 
 Install angular globally (using '-g' option):

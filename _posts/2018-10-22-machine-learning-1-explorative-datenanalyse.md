@@ -232,8 +232,42 @@ Here is a great answer explaining the [difference of covariance and correlation]
 
 
 # Visual Analytics
-Video: https://www.youtube.com/watch?v=SiUE89QH0VY&feature=youtu.be
+https://www.youtube.com/watch?v=SiUE89QH0VY&feature=youtu.be
 
+[Scatterplot](https://en.wikipedia.org/wiki/Scatter_plot)
+
+[Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+Anscombe's quartet comprises four datasets that have nearly identical simple descriptive statistics, yet appear very different when graphed.
+<img src="{{site.baseurl}}/assets/img/2018-10-22-machine-learning-3-1-anscombe's-quartet-dataset.png">
+All four sets are identical when examined using simple summary statistics, but vary considerably when graphed.
+
+|Property                                               |Value  |Accuracy|
+|-------------------------------------------------------|-----------------|---------------------------------------|
+|Mean of x                                              |9                |exact                                  |
+|-------------------------------------------------------|-----------------|---------------------------------------|
+|Sample variance of x                                   |11               |exact                                  |
+|-------------------------------------------------------|-----------------|---------------------------------------|
+|Mean of y                                              |7.50	            |to 2 decimal places                    |
+|-------------------------------------------------------|-----------------|---------------------------------------|
+Sample variance of y                                    |4.125            |±0.003                                 |
+|-------------------------------------------------------|-----------------|---------------------------------------|
+|Correlation between x and y                            |0.816            |to 3 decimal places                    |
+|-------------------------------------------------------|-----------------|---------------------------------------|
+|Linear regression line                                 |y = 3.00 + 0.500x|to 2 and 3 decimal places, respectively|
+|-------------------------------------------------------|-----------------|---------------------------------------|
+|Coefficient of determination of the linear regression  |0.67             |to 2 decimal places                    |
+|-------------------------------------------------------|-----------------|---------------------------------------|
+
+Diagrams:
+- The first scatter plot (top left) appears to be a simple linear relationship, corresponding to two variables correlated and following the assumption of normality.
+- The second graph (top right) is not distributed normally; while a relationship between the two variables is obvious, it is not linear, and the Pearson correlation coefficient is not relevant. A more general regression and the corresponding coefficient of determination would be more appropriate.
+- In the third graph (bottom left), the distribution is linear, but should have a different regression line (a robust regression would have been called for). The calculated regression is offset by the one outlier which exerts enough influence to lower the correlation coefficient from 1 to 0.816.
+- Finally, the fourth graph (bottom right) shows an example when one outlier is enough to produce a high correlation coefficient, even though the other data points do not indicate any relationship between the variables.
+<img src="{{site.baseurl}}/assets/img/2018-10-22-machine-learning-3-2-anscombe's-quartet-diagram.png">
+
+
+
+Histogram
 
 # Data preparation
 Video: https://www.youtube.com/watch?v=NzuONRc_zgw&feature=youtu.be
