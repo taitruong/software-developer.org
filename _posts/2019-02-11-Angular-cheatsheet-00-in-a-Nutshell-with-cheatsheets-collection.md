@@ -21,9 +21,11 @@ Since I'm switching from AngularJs to Angular I will start collecting and summar
 # Updates
 Updates and progress of my learnings can be found on my [blog](http://software-developer.org) with examples on [GitHub](https://github.com/taitruong/angular-examples).
 
-# Preparations
+# Blogs/Cheatsheets
+[01 Generating a new project](http://software-developer.org/2019/02/11/Angular-cheatsheet-01-new-project/) - [GitHub example](https://github.com/taitruong/angular-examples/tree/master/Cheatsheet01Project)
 
-## Install Node, Angular and CLI
+
+# Install Node, Angular and CLI
 Install nodejs
 
 ```
@@ -51,7 +53,3 @@ Clone from my GitHub repo:
 ```
 git clone https://github.com/taitruong/angular-examples
 ```
-
-# Blogs and Cheatsheets
-
-[01 Generating a new project](http://software-developer.org/2019/02/11/Angular-cheatsheet-01-new-project/) - [GitHub example](https://github.com/taitruong/angular-examples/tree/master/Cheatsheet01Project)
