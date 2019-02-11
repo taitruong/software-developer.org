@@ -7,6 +7,11 @@ tags: [Angular, Nutshell, Cheatsheet]
 comments: true
 ---
 
+# Table of Contents - Blogs/Cheatsheets
+[01 Generating a new project](http://software-developer.org/2019/02/11/Angular-cheatsheet-01-new-project/) - [GitHub example](https://github.com/taitruong/angular-examples/tree/master/Cheatsheet01Project)
+
+[02 Components](http://software-developer.org/2019/02/11/Angular-cheatsheet-02-component/) - [GitHub example](https://github.com/taitruong/angular-examples/tree/master/Cheatsheet02Component)
+
 # Intro
 
 Like many software engineer in daily business as an software engineer I don't have a lot of time for diving deeper into new tools and technologies. Now as a new and first-time father I'm taking a professional timeout and focus on new things respectively in more details like Angular, machine learning, React, Docker...
@@ -20,10 +25,6 @@ Since I'm switching from AngularJs to Angular I will start collecting and summar
 
 # Updates
 Updates and progress of my learnings can be found on my [blog](http://software-developer.org) with examples on [GitHub](https://github.com/taitruong/angular-examples).
-
-# Blogs/Cheatsheets
-[01 Generating a new project](http://software-developer.org/2019/02/11/Angular-cheatsheet-01-new-project/) - [GitHub example](https://github.com/taitruong/angular-examples/tree/master/Cheatsheet01Project)
-
 
 # Install Node, Angular and CLI
 Install nodejs
