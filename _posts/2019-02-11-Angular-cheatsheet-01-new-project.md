@@ -7,6 +7,16 @@ tags: [Angular, angular project]
 comments: true
 ---
 
+# Overview
+- an Angular app consists of one or more components
+- app root/root component is the minimum component
+- all other components are underneath root component
+- component consists of
+  - a (TypeScript) class, annotated with an [@Component](https://angular.io/api/core/Component) decorator
+  - a view represented by a template
+
+NB: components will be covered in my next angular cheatsheet blog.
+More 
 # App module, app component and bootstrapping
 First lets create a new ng project 'Cheatsheet01Project', with no extra css files using inline-styles and an app prefix called "tai".
 
@@ -17,7 +27,7 @@ ng n Cheatsheet01Project -s -p tai
 ? Which stylesheet format would you like to use? CSS
 ```
 
-A module contains as a minimum one component. In this case it is the app component (app.component.ts) defined in the main src/app folder. Components will be covered in my next blog about components.
+A module contains as a one or more components. As a minimum there is the app component (app.component.ts) defined in the main src/app folder.
 
 The src/app folder contains the module app.module.ts. The app module configures and bootstraps our angular application. At the beginning only the app component is bootstrapped:
 
