@@ -3,7 +3,7 @@ layout: post
 title: A GitHub Page with Angular 6 and Markdown (NgxMd)
 date: 2018-10-03 
 excerpt: ""
-tags: []
+tags: [Angular, GitHub pages]
 comments: true
 ---
 [Google translate this page e.g. to German](translate.google.com/translate?hl=en&sl=en&tl=de&u=https%3A%2F%2Ftaitruong.github.io%2Fsoftware-developer.org%2F2018%2F10%2F03%2Fgithub-page-with-angular-and-markdown%2F)
