@@ -52,6 +52,6 @@ Clone from my GitHub repo:
 git clone https://github.com/taitruong/angular-examples
 ```
 
-# Blogs and Cheatsheet
+# Blogs and Cheatsheets
 
-... coming next
+[01 Generating a new project](http://software-developer.org/2019/02/11/Angular-cheatsheet-01-new-project/) - [GitHub example](https://github.com/taitruong/angular-examples/tree/master/Cheatsheet01Project)
