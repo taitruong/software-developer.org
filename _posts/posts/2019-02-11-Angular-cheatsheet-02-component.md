@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: Angular Cheatsheet 02 - Components
 date: 2019-02-11
 excerpt: ""

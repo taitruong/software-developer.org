@@ -24,11 +24,7 @@ layout: compress
                       {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.baseurl}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.baseurl}}/posts/">
-                    {% endif %}
+                    <a class="btn zoombtn" href="{{site.baseurl}}/{{page.category}}s">
                         <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>

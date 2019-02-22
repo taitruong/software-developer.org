@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: Machine Learning - Part 3 - Classification
 date: 2018-11-02
 excerpt: ""

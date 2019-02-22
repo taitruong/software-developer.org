@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: Angular Cheatsheet 01 - Angular project
 date: 2019-02-11
 excerpt: ""

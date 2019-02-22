@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: A two-liner for installing Java and JCE
 date: 2017-11-19 20:06
 excerpt: "Life can be so easy ;)"

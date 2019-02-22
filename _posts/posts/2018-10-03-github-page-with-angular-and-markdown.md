@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: A GitHub Page with Angular 6 and Markdown (NgxMd)
 date: 2018-10-03 
 excerpt: ""

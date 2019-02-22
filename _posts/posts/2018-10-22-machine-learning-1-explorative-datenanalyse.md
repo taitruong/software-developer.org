@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: Machine Learning - Part I - Explorative Data Analysis (EDA)
 date: 2018-10-22
 excerpt: ""

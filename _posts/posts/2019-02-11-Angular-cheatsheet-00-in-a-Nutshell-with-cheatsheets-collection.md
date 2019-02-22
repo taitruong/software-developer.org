@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: Angular in a Nutshell - Cheatsheets collection
 date: 2019-02-11
 excerpt: ""

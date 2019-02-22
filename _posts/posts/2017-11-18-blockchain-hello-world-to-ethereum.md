@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: Blockchain - Hello World to Ethereum
 date: 2017-11-18 01:18
 excerpt: "Ethereum: Smart Contracts, getting started using geth cli"
