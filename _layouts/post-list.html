@@ -21,17 +21,14 @@ layout: compress
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
-                <div class="post-list">
+                <div>
                     {% for post in site.categories.post %}
-                        <ul>
-                            <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                                <a class="zoombtn" href="{{ site.baseurl }}{{ post.url }}">
-                                    {{ post.date | date_to_string }} - {{ post.title }}
-                                    <p>{{ post.excerpt }}</p>
-                                    <p class="btn zoombtn">Read More</p>
-                                </a>
-                            </li>
-                        </ul>
+                        <div class="post-list wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="{{ site.baseurl }}{{ post.url }}">
+                                {{ post.date | date_to_string }} - <strong>{{ post.title }}</strong>
+                                <p>{{ post.excerpt }}</p>
+                            </a>
+                        </div>
                     {% endfor %}
                 </div>
             </div>
