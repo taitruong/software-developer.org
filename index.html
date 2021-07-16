@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>software-developer.org - sharing is caring</title>
+    <style>
+      html {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+        font-size: 25px;
+        background-color: #000;
+        color: #0f6;
+      }
+
+      a:link {
+        color: cyan;
+      }
+
+      a:visited {
+        color: darkgreen;
+      }
+
+      a:hover {
+        color: green;
+      }
+
+      a:active {
+        color: yellow;
+      }
+    </style>
+  </head>
+  <body style="width: 800px; padding-top: 30px">
+    <script>
+      //source: https://www.w3schools.com/howto/howto_js_copy_clipboard.asp
+      function copyToClipboard() {
+        /* Get the text field */
+        var copyText = document.getElementById('copyToClipboard');
+
+        /* Select the text field */
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+        /* Copy the text inside the text field */
+        document.execCommand('copy');
+
+        /* Alert the copied text */
+        alert('Copied to Clipboard:\n' + copyText.value);
+      }
+    </script>
+
+    <h1 style="font-size: 40px">software-developer.org</h1>
+
+    <blockquote style="text-align: start">
+      "Space: the final frontier. These are the voyages of software-developer.org. Its 6-months mission: to explore strange concepts like finite state machines, functional and reactive programming. To
+      seek out new technologies around blockchain (smart contracts), Rust, Elixir, Node, cloud services, native apps, and more. To boldly go where no daily business has gone before!" -
+      <a style="text-decoration: underline; text-align: start" href="https://youtu.be/hdjL8WXjlGI">Star Trek</a>
+    </blockquote>
+
+    <p>
+      This site acts as a playground for my own personal journey and
+      <a style="text-decoration: underline" href="https://en.wikipedia.org/wiki/Ikigai">ikigai.</a>
+      Starting from August 2021 and mostly like until March 2022 (or forever ;) ...
+    </p>
+
+    <p>
+      Nota bene: I am willing to do some <a href="https://en.wikipedia.org/wiki/Pro_bono">pro bono jobs</a> under one condition:
+      it is challenging - so no daily stuff :)!
+    </p>
+
+    <p>
+      <b style="color: yellow">
+        **Join this <a style="text-decoration: underline" href="https://join.slack.com/share/zt-t4bexcxe-_FnB7cm1VZsmtS6iUi0y7A">Slack channel</a>
+        for news, updates, and this site's change log!**
+      </b>
+      <button onclick="copyToClipboard()" style="color: #0f6; background-color: darkgray; font-size: 30px">copy & share</button>
+    </p>
+
+    <p>'coz sharing is caring :)</p>
+
+    <textarea type="text" id="copyToClipboard" style="width: 50px; position: absolute; top: 0px; left: -100px">
+I offer you: my services, pro bono! Under one condition: only innovative (no daily!) stuff. Like:
+-> FP, Reactive Programming, Finite State Machines...
+-> smart contracts (blockchain), Rust, Node, finite state machines...
+
+Within the next 6 months all results and findings will be embedded on this site:
+https://www.software-developer.org
+
+Get updated and join this Slack channel:
+https://join.slack.com/share/zt-tkqcww90-hO9F7mxBqRu7iXRaE493rA
+</textarea
+    >
+  </body>
+</html>
